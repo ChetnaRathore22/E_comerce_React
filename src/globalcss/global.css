@@ -1,0 +1,29 @@
+.card-group {
+    height: auto;
+    /* margin-top: 20px; */
+    padding: auto;;
+}
+
+.card{
+    height: 380px;
+    width: 250px;
+    box-shadow: rgba(242, 193, 194, 0.24) 0px 3px 6px, rgba(242, 193, 194, 0.54) 0px 3px 6px;
+}
+.card-img{
+  
+    height: 200px;
+}
+.card-img:hover{
+    transition: .6s;
+}
+.card-heading{
+    text-align: center;
+    color:black;
+    font-weight: bold;
+}
+del{
+    color: red;
+}
+.card-text{
+    font-size: 15px;
+}

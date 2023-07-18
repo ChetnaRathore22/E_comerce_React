@@ -1,0 +1,22 @@
+.ordersummary{
+    color: blueviolet;
+    font-size: 40px;
+}
+.orderHeading{
+    color: #1D2547;
+    font-weight: 300;
+     word-spacing: 5px;
+    display: block;
+    font-size: 16px;
+    font-family: "Poppins",sans-serif;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    text-transform: uppercase;
+}
+
+.divcard{
+    overflow-y: scroll;
+    
+}

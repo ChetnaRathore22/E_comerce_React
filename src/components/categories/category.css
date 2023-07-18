@@ -1,0 +1,16 @@
+.categoryStyle{
+    background-color:whitesmoke;
+    height: auto;
+}
+
+.categoryline{
+    margin-bottom: 40px;
+    background-color: #9F78FF;;
+    height: 5px;
+}
+
+h2:hover{
+    cursor: pointer;
+    color: #9F78FF;
+
+}

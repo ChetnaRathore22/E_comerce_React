@@ -1,0 +1,15 @@
+.bg-black {
+    background: #000000 !important;
+}
+
+.topper {
+    font-size: 11px;
+    width: 100%;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.topper .text {
+    width: calc(100% - 30px);
+    color: white;
+}
